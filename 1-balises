@@ -1,6 +1,7 @@
 <!-- DOCTYPE est la première balise obligatoire dans une page HTML : elle désigne le type de document pour le navigateur -->
 <!DOCTYPE html>
 <!-- langue de la page -->
+ 
 <html lang="fr">
     <!-- la balise HEAD contient les paramètres de la page HTML qui sont invisibles pour l'internaute -->
     <head>
