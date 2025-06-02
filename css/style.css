@@ -20,3 +20,21 @@ h1{
     bottom: 20px;
     text-decoration: none;
 }
+.block{
+    display: block;
+}
+
+.inline{
+    display: inline;
+}
+
+.myBtn{
+    background-color: green;
+    color: white;
+    font-size: 30px;
+    padding: 20px;
+    border-radius: 30px;
+    position: fixed;
+    bottom: 20px;
+    text-decoration: none;
+}
